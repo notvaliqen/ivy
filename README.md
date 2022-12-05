@@ -1,5 +1,5 @@
 
-![Banner](https://comfy-themes.github.io/Discord/assets/banner.png)
+![Banner]([https://comfy-themes.github.io/Discord/assets/banner.png](https://share.creavite.co/LHuyW5NT2OuPmBL1.gif))
 
 ---
 
