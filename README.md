@@ -1,5 +1,4 @@
-
-![Banner](https://github.com/notvaliqen/ivy/blob/main/betterdiscord/images/standard.gif)
+# :zap: Ivy :zap:
 
 ---
 
