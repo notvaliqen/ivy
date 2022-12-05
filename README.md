@@ -1,11 +1,15 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
+![Banner](https://comfy-themes.github.io/Discord/assets/banner.png)
 
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+### :writing_hand: Get IVY :
+
+[Download](https://www.google.com)
+
+### :writing_hand: About me :
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Latvia.
 
@@ -44,6 +48,4 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=notvaliqen&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 
-### :writing_hand: Get IVY :
 
-[Download](https://www.google.com)
