@@ -1,5 +1,5 @@
 
-![Banner]([https://notvaliqen.github.io/ivy/betterdiscord/images/banner.gif](https://share.creavite.co/LHuyW5NT2OuPmBL1.gif))
+![Banner]([https://notvaliqen.github.io/ivy/betterdiscord/images/standard.gif](https://share.creavite.co/LHuyW5NT2OuPmBL1.gif))
 
 ---
 
