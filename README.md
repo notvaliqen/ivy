@@ -1,6 +1,10 @@
 
 ![Banner](https://comfy-themes.github.io/Discord/assets/banner.png)
 
+---
+
+![Preview](https://comfy-themes.github.io/Discord/assets/preview.png)
+
 ### :writing_hand: Get IVY :
 
 [Download](https://www.google.com)
